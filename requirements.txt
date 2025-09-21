@@ -1,6 +1,6 @@
 streamlit
-python-docx
 pandas
 openpyxl
+python-docx
 PyYAML
 openai
